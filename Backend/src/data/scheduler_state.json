@@ -1,0 +1,12 @@
+{
+  "lastExecution": 1754800758735,
+  "executionSource": "backend",
+  "stats": {
+    "totalExecutions": 11425,
+    "successfulExecutions": 11403,
+    "failedExecutions": 22,
+    "lastError": "2025-08-09T23:51:42.351Z",
+    "lastSuccess": "2025-08-10T04:39:27.031Z"
+  },
+  "timestamp": "2025-08-10T04:39:27.032Z"
+}
